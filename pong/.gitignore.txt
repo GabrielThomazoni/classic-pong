@@ -1,0 +1,13 @@
+# Ficheiros compilados
+*.class
+bin/
+
+# Logs
+*.log
+hs_err_pid*.log
+
+# Configurações do Eclipse
+.metadata/
+.settings/
+.classpath
+.project
